@@ -7,7 +7,14 @@ Vídeo: https://youtu.be/1glVfFxj8a4?t=4733
 
 // 1. Escribe un comentario en una línea
 
+// Este es un comentario
+
 // 2. Escribe un comentario en varias líneas
+
+/* este es
+ un comentario
+ en varias
+ lineas */
 
 // 3. Declara variables con valores asociados a todos los datos de tipo primitivos
     let name1 = "valeria"
@@ -114,7 +121,7 @@ const Id = 154862                   //number
 const Followers = "muchos"         //string
 
 // 9. A continuación, modifica los valores de las constantes
-❌ //No se puede modificar el valor de una variable declarada 
+//❌ No se puede modificar el valor de una variable declarada 
    //  const si es un dato primitivo.
 
 // 10. Comenta las líneas que produzcan algún tipo de error al ejecutarse
